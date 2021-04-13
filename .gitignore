@@ -12,6 +12,17 @@ gradle-app.setting
 # Cache of project
 .gradletasknamecache
 
+
+/front/node_modules
+/.pnp
+.pnp.js
+
+
+/coverage
+
+# production
+/front/build
+
 .metadata
 bin/
 tmp/
